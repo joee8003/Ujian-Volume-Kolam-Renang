@@ -51,7 +51,7 @@ public class TestVolumeKolamRenang {
 		
 		double actual = volumeKolamRenang.volume(p);
 		
-		assertEquals(82, actual, 0.0);
+		assertEquals(198, actual, 0.0);
 			
 	}
 	
